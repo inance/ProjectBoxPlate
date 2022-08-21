@@ -20,3 +20,10 @@
  - Screw Distance: 191.6mm (7.5433") x 114.7mm (4.5157")
  - Screw Hole Size: 3.2mm
  - LCD Size 71.1mm x 24.1mm
+
+### Finalized dimensions
+ - Plate Dimensions: 205.7mm (8.0984") x 129.7mm (5.1063") x 2mm
+ - Screw Distance: 191.4mm x 115mm
+ - Screw Hole Size: 3.2mm
+ - LCD Size 71.1mm x 24.1mm
+ - Normalized all component holes to 12mm, 5mm, and 6.8mm
